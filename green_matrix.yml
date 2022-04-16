@@ -169,7 +169,7 @@ highlights:
   TSType: "cyan"
   TSTypeBuiltin: "blue"
   TSStructure: "#FF00FF"
-  TSInclude: "purple"
+  TSInclude: "fg"
   # Variable
   TSVariable: "fg"
   TSVariableBuiltin: "light_blue"
