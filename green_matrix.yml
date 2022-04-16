@@ -63,7 +63,7 @@ highlights:
   Keyword: "blue"
   Exception: "purple"
   PreProc: "yellow"
-  Include: "purple"
+  Include: "purple ;"
   Define: "purple"
   Title: "cyan"
   Macro: "purple"
@@ -171,7 +171,7 @@ highlights:
   TSStructure: "#FF00FF"
   TSInclude: "purple"
   # Variable
-  TSVariable: "light_blue"
+  TSVariable: "fg"
   TSVariableBuiltin: "light_blue"
   # Text
   TSText: "#FFFF00"
