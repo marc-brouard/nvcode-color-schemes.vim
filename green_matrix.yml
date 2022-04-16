@@ -126,7 +126,7 @@ highlights:
 
   # -- Start Treesitter --
   # Misc
-  TSComment: "green"
+  TSComment: "fg"
   TSError: "error_red"
   TSPunctDelimiter: "white"
   TSPunctBracket: "white"
@@ -235,6 +235,9 @@ highlights:
   # Python
   pythonInclude: "fg"
   pythonTSInclude: "fg"
+  pythonTSComment: "fg"
+  pythonComment: "fg"
+
   # -- END Languages --
 
 
