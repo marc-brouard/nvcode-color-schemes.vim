@@ -55,7 +55,7 @@ highlights:
   Float: "light_green"
   Identifier: "blue"
   Function: "yellow"
-  Statement: "green - b"
+  Statement: "fg - b"
   Conditional: "purple"
   Repeat: "purple"
   Label: "light_blue"
