@@ -105,7 +105,7 @@ highlights:
   QuickFixLine: "- line_grey"
   Search: "- line_grey"
   SpecialKey: "special_grey"
-  SpellBad: "error_red - u"
+  SpellBad: "error_red - c"
   SpellCap: "dark_yellow"
   SpellLocal: "dark_yellow"
   SpellRare: "dark_yellow"
