@@ -63,7 +63,7 @@ highlights:
   Keyword: "blue"
   Exception: "purple"
   PreProc: "yellow"
-  Include: "purple"
+  Include: "fg"
   Define: "purple"
   Title: "cyan"
   Macro: "purple"
