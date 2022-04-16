@@ -137,7 +137,7 @@ highlights:
   # Not sure about this guy
   TSConstMacro: "cyan"
   TSStringRegex: "orange"
-  TSString: "orange"
+  TSString: "fg"
   TSStringEscape: "dark_yellow"
   TSCharacter: "orange"
   TSNumber: "light_green"
@@ -237,6 +237,8 @@ highlights:
   pythonTSInclude: "fg"
   pythonTSComment: "fg"
   pythonComment: "fg"
+  pythonTSString: "fg"
+  pythonString: "fg"
 
   # -- END Languages --
 

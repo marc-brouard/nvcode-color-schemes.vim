@@ -92,7 +92,7 @@ hi TSConstant guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi TSConstBuiltin guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstMacro guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStringRegex guifg=#ce9178 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSString guifg=#ce9178 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSString guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStringEscape guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSCharacter guifg=#ce9178 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNumber guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -178,6 +178,8 @@ hi pythonInclude guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi pythonTSInclude guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSComment guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonComment guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi pythonTSString guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi pythonString guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerIndentLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerBufferRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerFileRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
