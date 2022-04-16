@@ -231,6 +231,10 @@ highlights:
   markdownOrderedListMarker: "red"
   markdownRule: "line_grey"
   markdownUrl: "cyan - u"
+
+  # Python
+  pythonInclude: "fg"
+  pythonTSInclude: "fg"
   # -- END Languages --
 
 
