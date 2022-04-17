@@ -54,7 +54,7 @@ highlights:
   Boolean: "blue"
   Float: "light_green"
   Identifier: "blue"
-  Function: "yellow"
+  Function: "light_green"
   Statement: "fg - b"
   Conditional: "purple"
   Repeat: "purple"
@@ -254,6 +254,8 @@ highlights:
   pythonTSConstant: "green"
   pythonAttribute: "green"
   pythonTSKeywordReturn: "green"
+  pythonTSFuncBuiltin: "light_green"
+  pythonFuncBuiltin: "light_green"
 
   # -- END Languages --
 
