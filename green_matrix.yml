@@ -162,14 +162,14 @@ highlights:
   TSLabel: "light_blue"
   # Does not work for yield and return they should be diff then class and def
   TSKeyword: "blue"
-  TSKeywordFunction: "purple"
+  TSKeywordFunction: "fg - b"
   TSKeywordOperator: "blue"
   TSOperator: "white"
   TSException: "purple"
   TSType: "cyan"
   TSTypeBuiltin: "blue"
   TSStructure: "#FF00FF"
-  TSInclude: "fg"
+  TSInclude: "fg - b"
   # Variable
   TSVariable: "fg"
   TSVariableBuiltin: "light_blue"
@@ -233,12 +233,14 @@ highlights:
   markdownUrl: "cyan - u"
 
   # Python
-  pythonInclude: "fg"
-  pythonTSInclude: "fg"
+  pythonInclude: "fg - b"
+  pythonTSInclude: "fg - b"
   pythonTSComment: "fg"
   pythonComment: "fg"
   pythonTSString: "fg"
   pythonString: "fg"
+  pythonTSKeywordFunction: "fg - b"
+  pythonStatement: "fg - b"
 
   # -- END Languages --
 
