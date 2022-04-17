@@ -102,7 +102,7 @@ hi TSAnnotation guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi TSAttribute guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNamespace guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFuncBuiltin guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSFunction guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSFunction guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi TSFuncMacro guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -190,8 +190,8 @@ hi pythonTSOperator guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE ct
 hi pythonTSMethod guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSConstructor guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSParameter guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi pythonTSFunction guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi pythonFunction guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi pythonTSFunction guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi pythonFunction guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi pythonTSConstant guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonAttribute guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSKeywordReturn guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
