@@ -118,11 +118,11 @@ hi TSKeywordFunction guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold c
 hi TSKeywordOperator guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSOperator guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSException guifg=#c586c0 ctermfg=175 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSType guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSType guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSTypeBuiltin guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStructure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi TSVariable guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSVariable guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSVariableBuiltin guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSText guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStrong guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -182,6 +182,9 @@ hi pythonTSString guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cter
 hi pythonString guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSKeywordFunction guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi pythonStatement guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi pythonTSVariable guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi pythonVariable guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi pythonTSType guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi CocExplorerIndentLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerBufferRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerFileRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

@@ -166,12 +166,12 @@ highlights:
   TSKeywordOperator: "blue"
   TSOperator: "white"
   TSException: "purple"
-  TSType: "cyan"
+  TSType: "fg - b"
   TSTypeBuiltin: "blue"
   TSStructure: "#FF00FF"
   TSInclude: "fg - b"
   # Variable
-  TSVariable: "fg"
+  TSVariable: "fg - b"
   TSVariableBuiltin: "light_blue"
   # Text
   TSText: "#FFFF00"
@@ -241,6 +241,9 @@ highlights:
   pythonString: "fg"
   pythonTSKeywordFunction: "fg - b"
   pythonStatement: "fg - b"
+  pythonTSVariable: "fg - b"
+  pythonVariable: "fg - b"
+  pythonTSType: "fg - b"
 
   # -- END Languages --
 
