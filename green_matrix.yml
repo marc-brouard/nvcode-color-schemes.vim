@@ -150,12 +150,12 @@ highlights:
   TSFuncBuiltin: "yellow"
   TSFunction: "yellow"
   TSFuncMacro: "yellow"
-  TSParameter: "light_blue"
+  TSParameter: "fg"
   TSParameterReference: "light_blue"
-  TSMethod: "yellow"
+  TSMethod: "fg"
   TSField: "light_blue"
   TSProperty: "light_blue"
-  TSConstructor: "cyan"
+  TSConstructor: "fg"
   # Keywords
   TSConditional: "purple"
   TSRepeat: "purple"
@@ -164,7 +164,7 @@ highlights:
   TSKeyword: "blue"
   TSKeywordFunction: "fg - b"
   TSKeywordOperator: "blue"
-  TSOperator: "white"
+  TSOperator: "fg"
   TSException: "purple"
   TSType: "fg - b"
   TSTypeBuiltin: "blue"
@@ -244,6 +244,10 @@ highlights:
   pythonTSVariable: "fg - b"
   pythonVariable: "fg - b"
   pythonTSType: "fg - b"
+  pythonTSOperator: "fg"
+  pythonTSMethod: "fg"
+  pythonTSConstructor: "fg"
+  pythonTSParameter: "fg"
 
   # -- END Languages --
 
