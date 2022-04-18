@@ -1,16 +1,16 @@
 information:
-  name: eeeeee
+  name: green_matrix
   background: dark
   author: "Marc Brouard"
 
 palette:
-  fg: "#008F11"
+  fg: "#009920"
   bg: "#0D0208"
 
   red: "#D16969"
   error_red: "#F44747"
-  green: "#003800"
-  light_green: "#00FF41"
+  green: "#007000"
+  light_green: "#00FF51"
   yellow: "#DCDCAA"
   dark_yellow: "#D7BA7D"
   orange: "#CE9178"
@@ -321,7 +321,7 @@ highlights:
   WhichKey: "light_green"
   WhichKeySeperator: "green"
   WhichKeyGroup: "fg"
-  WhichKeyDesc: "fg"
+  WhichKeyDesc: ""
   # -- END WhichKey --
   #
   # old stuff
