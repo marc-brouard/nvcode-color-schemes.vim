@@ -107,8 +107,8 @@ hi TSFuncMacro guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi TSParameter guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSField guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSProperty guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSField guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSProperty guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConditional guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSRepeat guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -202,6 +202,7 @@ hi pythonTSKeywordOperator guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=
 hi pythonTSBoolean guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSRepeat guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSConditional guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi pythonTSField guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerIndentLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerBufferRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerFileRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

@@ -153,8 +153,8 @@ highlights:
   TSParameter: "fg"
   TSParameterReference: "light_blue"
   TSMethod: "fg"
-  TSField: "light_blue"
-  TSProperty: "light_blue"
+  TSField: "fg"
+  TSProperty: "fg"
   TSConstructor: "fg"
   # Keywords
   TSConditional: "light_green"
@@ -261,6 +261,7 @@ highlights:
   pythonTSBoolean: "light_green"
   pythonTSRepeat: "light_green"
   pythonTSConditional: "light_green"
+  pythonTSField: "fg"
 
   # -- END Languages --
 
