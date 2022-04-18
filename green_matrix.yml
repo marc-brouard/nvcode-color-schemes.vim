@@ -239,7 +239,7 @@ highlights:
   pythonTSComment: "fg"
   pythonComment: "fg"
   pythonTSString: "fg - i"
-  pythonString: "green"
+  pythonString: "light_green"
   pythonTSKeywordFunction: "fg - b"
   pythonStatement: "fg - b"
   pythonTSVariable: "fg - b"

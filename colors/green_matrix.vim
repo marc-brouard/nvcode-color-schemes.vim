@@ -180,7 +180,7 @@ hi pythonTSInclude guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=bold cte
 hi pythonTSComment guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonComment guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSString guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi pythonString guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi pythonString guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSKeywordFunction guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi pythonStatement guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi pythonTSVariable guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=bold cterm=bold
