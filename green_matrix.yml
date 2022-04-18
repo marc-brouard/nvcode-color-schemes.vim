@@ -53,7 +53,7 @@ highlights:
   Number: "light_green"
   Boolean: "blue"
   Float: "light_green"
-  Identifier: "blue"
+  Identifier: "light_green"
   Function: "light_green"
   Statement: "fg - b"
   Conditional: "light_green"
@@ -67,7 +67,7 @@ highlights:
   Define: "light_green"
   Title: "cyan"
   Macro: "light_green"
-  PreCondit: "light_blue"
+  PreCondit: "light_green"
   Type: "light_blue"
   StorageClass: "light_blue"
   Structure: "yellow"
@@ -262,6 +262,12 @@ highlights:
   pythonTSRepeat: "light_green"
   pythonTSConditional: "light_green"
   pythonTSField: "fg"
+
+  # Tex
+  texCmdTabular: "light_green"
+  texCmdEnv: "light_green"
+  texEnvArgName: "light_green"
+  texTabularChar: "light_green"
 
   # -- END Languages --
 
