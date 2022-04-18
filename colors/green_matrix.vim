@@ -10,8 +10,8 @@ let g:colors_name='eeeeee'
 hi Normal guifg=#008f11 ctermfg=28 guibg=#0d0208 ctermbg=232 gui=NONE cterm=NONE
 hi Comment guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#ce9178 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Character guifg=#ce9178 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Character guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Number guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -30,7 +30,7 @@ hi Define guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Title guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Macro guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreCondit guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Type guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Type guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StorageClass guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Structure guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef guifg=#dcdcaa ctermfg=187 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -207,6 +207,9 @@ hi texCmdTabular guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi texCmdEnv guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi texEnvArgName guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi texTabularChar guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi texPartArgTitle guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi texArg guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi texCmdSize guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerIndentLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerBufferRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerFileRoot guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -234,9 +237,9 @@ hi StartifySlash guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi StartifyHeader guifg=#9cdcfe ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifySection guifg=#c586c0 ctermfg=175 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifyFooter guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKey guifg=#c586c0 ctermfg=175 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKey guifg=#00ff41 ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeySeperator guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKeyGroup guifg=#4fc1ff ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKeyGroup guifg=#008f11 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeyDesc guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffAdded guifg=#003800 ctermfg=22 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffRemoved guifg=#d16969 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

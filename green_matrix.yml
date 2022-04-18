@@ -48,8 +48,8 @@ highlights:
 
   Comment: "green - i"
   Constant: "light_green"
-  String: "orange"
-  Character: "orange"
+  String: "light_green"
+  Character: "light_green"
   Number: "light_green"
   Boolean: "blue"
   Float: "light_green"
@@ -68,7 +68,7 @@ highlights:
   Title: "cyan"
   Macro: "light_green"
   PreCondit: "light_green"
-  Type: "light_blue"
+  Type: "light_green"
   StorageClass: "light_blue"
   Structure: "yellow"
   Typedef: "yellow"
@@ -268,6 +268,9 @@ highlights:
   texCmdEnv: "light_green"
   texEnvArgName: "light_green"
   texTabularChar: "light_green"
+  texPartArgTitle: "light_green"
+  texArg: "light_green"
+  texCmdSize: "light_green"
 
   # -- END Languages --
 
@@ -310,10 +313,11 @@ highlights:
   StartifySection: "purple"
   StartifyFooter: "green"
   # -- END Startify --
-  # -- START WhichKey --
-  WhichKey: "purple"
+
+  # -- START WhichKey --z
+  WhichKey: "light_green"
   WhichKeySeperator: "green"
-  WhichKeyGroup: "vivid_blue"
+  WhichKeyGroup: "fg"
   WhichKeyDesc: "blue"
   # -- END WhichKey --
   #
