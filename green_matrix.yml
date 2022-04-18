@@ -321,7 +321,7 @@ highlights:
   WhichKey: "light_green"
   WhichKeySeperator: "green"
   WhichKeyGroup: "fg"
-  WhichKeyDesc: "blue"
+  WhichKeyDesc: "fg"
   # -- END WhichKey --
   #
   # old stuff
