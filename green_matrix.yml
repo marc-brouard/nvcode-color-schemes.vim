@@ -111,6 +111,7 @@ highlights:
   SpellRare: "dark_yellow"
   StatusLine: "white cursor_grey"
   StatusLineNC: "line_grey"
+  StatusLineSeparator: "cursor_grey"
   StatusLineTerm: "white cursor_grey"
   StatusLineTermNC: "cursor_grey"
   TabLine: "line_grey"
