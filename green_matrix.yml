@@ -39,8 +39,8 @@ palette:
   tabfill: "#252526"
   bg_inactive: "#2E2E2E"
   Cursor: "- - r"
-  CursorColumn: "- cursor_grey"
-  CursorLine: "- cursor_grey"
+  CursorColumn: "- fg"
+  CursorLine: "- fg"
   indentlinehighlight: "#707070"
 
 
