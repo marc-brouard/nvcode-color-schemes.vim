@@ -39,6 +39,8 @@ palette:
   tabfill: "#252526"
   bg_inactive: "#2E2E2E"
   Cursor: "- - r"
+  CursorColumn: "- cursor_grey"
+  CursorLine: "- cursor_grey"
   indentlinehighlight: "#707070"
 
 
@@ -76,9 +78,9 @@ highlights:
   Error: "error_red - br"
   Todo: "purple - bi"
   Underlined: "cyan . u"
-  Cursor: "cursor_fg cursor_bg"
+  Cursor: "- - r"
 
-  ColorColumn: "- cursor_grey"
+  ColorColumn: "- cursor_fg"
   CursorLineNr: "white - b"
   SignColumn: "- bg"
   Conceal: "line_grey"
