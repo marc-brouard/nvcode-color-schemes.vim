@@ -39,7 +39,7 @@ palette:
   tabfill: "#252526"
   bg_inactive: "#2E2E2E"
   Cursor: "- - r"
-  CursorColumn: "- -"
+  CursorColumn: "- - r"
   CursorLine: "- -"
   indentlinehighlight: "#707070"
 
