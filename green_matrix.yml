@@ -80,11 +80,10 @@ highlights:
   Underlined: "cyan . u"
   Cursor: "- - r"
 
-  ColorColumn: "- cursor_fg"
+  ColorColumn: "- - r"
   CursorLineNr: "white - b"
   SignColumn: "- bg"
   Conceal: "line_grey"
-  CursorColumn: "- cursor_grey"
   CursorLine: "- - u"
   Directory: "blue"
   DiffAdd: "black green"
